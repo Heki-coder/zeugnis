@@ -12,7 +12,7 @@ body {
 #calc {
     position: absolute;
     left: 45%;
-    top: 60%;
+    top: 70%;
     transform: translate(-50%, -50%);
     background-color: blue;
     color: white;
