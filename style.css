@@ -1,0 +1,29 @@
+body {
+    font-family: fantasy, Verdana;
+}
+#select {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 80vh;
+
+}
+#calc {
+    position: absolute;
+    left: 45%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    background-color: blue;
+    color: white;
+    font-weight: 800;
+    border: none;
+    border-radius: 3vh;
+    padding: 2vh;
+}
+#result {
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+}
